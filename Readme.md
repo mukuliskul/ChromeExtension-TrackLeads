@@ -1,7 +1,7 @@
 # Chrome Extension: Leads Tracker
 
 ## Description
-This Chrome extension is designed to track leads by utilizing JavaScript and DOM manipulation. It enables users to save and retrieve leads locally using the browser's local storage. The extension showcases proficiency in handling local storage and demonstrates the ability to enhance browser functionality using JavaScript.
+The Leads Tracker Chrome extension allows you to save links in a convenient and organized manner. Easily track leads by manually inputting URLs or clicking a button to capture the current tab's link. The extension leverages JavaScript and DOM manipulation, showcasing proficiency in local storage handling and browser functionality enhancement.
 
 ## Skills
 - JavaScript Proficiency
